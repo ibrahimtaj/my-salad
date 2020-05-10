@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-salad/static/css/main.b63f7fa6.chunk.css",
+    "main.js": "/my-salad/static/js/main.0a36c14f.chunk.js",
+    "main.js.map": "/my-salad/static/js/main.0a36c14f.chunk.js.map",
+    "runtime-main.js": "/my-salad/static/js/runtime-main.db9b347b.js",
+    "runtime-main.js.map": "/my-salad/static/js/runtime-main.db9b347b.js.map",
+    "static/js/2.9b6f253e.chunk.js": "/my-salad/static/js/2.9b6f253e.chunk.js",
+    "static/js/2.9b6f253e.chunk.js.map": "/my-salad/static/js/2.9b6f253e.chunk.js.map",
+    "index.html": "/my-salad/index.html",
+    "precache-manifest.2a31727549b5bab3a90c814fd5f2bb37.js": "/my-salad/precache-manifest.2a31727549b5bab3a90c814fd5f2bb37.js",
+    "service-worker.js": "/my-salad/service-worker.js",
+    "static/css/main.b63f7fa6.chunk.css.map": "/my-salad/static/css/main.b63f7fa6.chunk.css.map",
+    "static/js/2.9b6f253e.chunk.js.LICENSE.txt": "/my-salad/static/js/2.9b6f253e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9b347b.js",
+    "static/js/2.9b6f253e.chunk.js",
+    "static/css/main.b63f7fa6.chunk.css",
+    "static/js/main.0a36c14f.chunk.js"
+  ]
+}
